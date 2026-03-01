@@ -51,7 +51,9 @@ Due to hardware failure during USB connector rework, the testing plan was not ex
 ## Lesson Learned
 
 • Without the right tools, the solder is permanent, so it's important to plan a course of action and steps before committing
+
 • Research is an essential in designing and developing the project, but it's not final, you must be adaptable and ready to problem-solve issues
+
 • When reworking you should act with caution because it can cause further damage to components
 
 ## Connection to Hardware Engineering
