@@ -48,13 +48,13 @@ The electrical validation plan involved using a multimeter to check for voltage 
 
 Due to hardware failure during USB connector rework, the testing plan was not executed. However, defining a validation approach highlighted the importance of structured verification in hardware projects.
 
-**Lesson Learned**
+## Lesson Learned
 
 • Without the right tools, the solder is permanent, so it's important to plan a course of action and steps before committing
 • Research is an essential in designing and developing the project, but it's not final, you must be adaptable and ready to problem-solve issues
 • When reworking you should act with caution because it can cause further damage to components
 
-**Connection to Hardware Engineering**
+## Connection to Hardware Engineering
 
 Hardware Engineering requires a lot of time to assemble, debug, and validate the hardware system. These processes relate back to essential skills like soldering and mechancial design.
 
