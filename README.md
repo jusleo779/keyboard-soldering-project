@@ -1,4 +1,4 @@
-# keyboard-project
+# keyboard-soldering-project
 
 ## Background
 
