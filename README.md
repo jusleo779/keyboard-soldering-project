@@ -21,14 +21,19 @@ The main focus of the project was developing practical soldering skills. While I
 Key knowledge from tutorials:
 
 • Soldering temperature depends on solder material (lead-free vs. leaded).
+
 • The soldering iron tip should be properly tinned before use.
+
 • The iron must contact both metal surfaces to create a proper joint.
 
 Lessons from real-world application:
 
 • Through-hole solder joints are mechanically strong and difficult to remove without proper desoldering tools.
+
 • Controlling solder quantity is critical to avoid bridges and ensure clean joints.
+
 • Flux significantly improves solder flow and joint quality.
+
 • Thermal management is essential. During desoldering of the microcontroller headers, excessive heat propagated to the surface-mounted USB connector, causing pad separation. Multiple repair attempts further damaged the board, preventing powered validation of the system.
 
 This experience reinforced the importance of tool limitations, planning rework steps carefully, thermal control, and researching repair strategies before repeated attempts.
