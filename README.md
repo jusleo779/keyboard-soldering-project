@@ -18,7 +18,7 @@ I researched off-the-shelf components and verified compatibility with the ATmega
 
 The main focus of the project was developing practical soldering skills. While I learned foundational techniques from online tutorials, most lessons came from hands-on application.
 
-Key knowledge from tutorials:
+**Key knowledge from tutorials:**
 
 • Soldering temperature depends on solder material (lead-free vs. leaded).
 
@@ -26,7 +26,7 @@ Key knowledge from tutorials:
 
 • The iron must contact both metal surfaces to create a proper joint.
 
-Lessons from real-world application:
+**Lessons from real-world application:**
 
 • Through-hole solder joints are mechanically strong and difficult to remove without proper desoldering tools.
 
@@ -40,7 +40,7 @@ This experience reinforced the importance of tool limitations, planning rework s
 
 My second focus was **FreeCAD**, which became necessary when the purchased case did not fit the PCB. I designed and 3D printed a custom bottom case to resolve this issue.
 
-Design considerations included:
+**Design considerations included:**
 
 • PCB structural support  
 • Screw holes with increased tolerance to account for 3D printing variation  
