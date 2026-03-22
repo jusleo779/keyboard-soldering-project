@@ -19,11 +19,13 @@ I researched off-the-shelf components and verified compatibility with the ATmega
 The main focus of the project was developing practical soldering skills. While I learned foundational techniques from online tutorials, most lessons came from hands-on application.
 
 Key knowledge from tutorials:
+
 • Soldering temperature depends on solder material (lead-free vs. leaded).
 • The soldering iron tip should be properly tinned before use.
 • The iron must contact both metal surfaces to create a proper joint.
 
 Lessons from real-world application:
+
 • Through-hole solder joints are mechanically strong and difficult to remove without proper desoldering tools.
 • Controlling solder quantity is critical to avoid bridges and ensure clean joints.
 • Flux significantly improves solder flow and joint quality.
