@@ -34,6 +34,7 @@ This experience reinforced the importance of tool limitations, planning rework s
 My second focus was **FreeCAD**, which became necessary when the purchased case did not fit the PCB. I designed and 3D printed a custom bottom case to resolve this issue.
 
 Design considerations included:
+
 • PCB structural support  
 • Screw holes with increased tolerance to account for 3D printing variation  
 • Slip-pad slots to prevent movement  
